@@ -141,7 +141,7 @@ ctx3.shadowColor = '#FFF';
 ctx3.shadowBlur = 25;
 window.onload = function() {
   setTimeout(function() {
-      window.location.href = "../../BirthdayCake.html"; 
+      window.location.href = "../../../"; 
   }, 60000); 
 };
 // ANIMATION LOOP
